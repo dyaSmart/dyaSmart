@@ -1,4 +1,5 @@
-![Uploading IMG-20260917-WA2978.jpg…]()
+
+<img width="2736" height="912" alt="IMG-20260917-WA2978" src="https://github.com/user-attachments/assets/8447aa91-710a-4f70-b915-6ea05d725dbf" />
 
 
 # Hi, I'm dyaSmart ✨
