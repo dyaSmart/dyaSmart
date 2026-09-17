@@ -1,23 +1,31 @@
 # Hi, I'm dyaSmart ✨
-### Developer • Creator • Learner
+### GM Finance | Financial Planner | Future Managing Director
 
-Welcome to my GitHub! I love building cool things and learning new tech.
+Helping businesses turn numbers into strategy. Passionate about cashflow, tax planning, and building finance systems that scale.
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 Currently learning TypeScript and React
-- 💻 Passionate about open-source and UI/UX
-- ⚡ Fun fact: I love pixel art & retro gaming
+### 💼 About Me
+- 💰 GM Finance with hands-on experience in corporate & UMKM finance
+- 📊 Obsessed with clean bookkeeping, cashflow & P&L that actually makes sense
+- 🧾 Specialist: Coretax migration, SPT Badan/OP, Budgeting & Forecasting
+- 🚀 Currently building my path to Financial Planner & Managing Director
 
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🛠️ Core Expertise
+[Financial Planning](https://img.shields.io/badge/Financial_Planning-0A66C2?style=for-the-badge)
+[Cashflow Management](https://img.shields.io/badge/Cashflow_Management-00C853?style=for-the-badge)
+[Tax Planning](https://img.shields.io/badge/Tax_Planning-FF6F00?style=for-the-badge)
+[Excel Advanced](https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[Fractional CFO](https://img.shields.io/badge/Fractional_CFO-6A1B9A?style=for-the-badge)
+
+### 📈 What I Build Here
+- 📂 **Finance Templates:** Cashflow, Budget UMKM, Laporan Keuangan auto-dashboard
+- 🧮 **Tools:** Sistem SPT & Coretax checklist for PT
+- 📚 **Knowledge Base:** Notes about Financial Planner & MD roadmap
 
 ### 📊 GitHub Stats
-![dyaSmart's Stats](https://github-readme-stats.vercel.app/api?username=dyaSmart&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyaSmart&layout=compact&theme=tokyonight)
+[My Stats](https://github-readme-stats.vercel.app/api?username=dyaSmart&show_icons=true&theme=tokyonight&hide_border=true)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyaSmart&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-⭐️ From [dyaSmart](https://github.com/dyaSmart) with love!
+Let's connect! Open to freelance finance, tax consulting & collaboration.
