@@ -1,4 +1,4 @@
-![Banner](finance_banner_navy_gold.webp)
+![Banner](finance_banner_navy_gold.webp).jpeg
 
 # Hi, I'm dyaSmart ✨
 ### GM Finance | Financial Planner | Future Managing Director
